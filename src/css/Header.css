@@ -9,6 +9,19 @@
   list-style-type: none;
   font-size: 19px;
   font-weight: bold;
+  color: rgb(19, 18, 18);
+  opacity: 0.9;
+}
+
+.contact a {
+  color: #fff;
+}
+
+.nav-container li:hover {
+  opacity: 0.7;
+  transition: 0.5s all;
+  color: #1e40af;
+  transform: scale3d(1.1, 1.1, 1.1);
 }
 
 .nav-container {
@@ -57,4 +70,10 @@
 textarea {
   margin: 10px;
   padding: 45px 20px;
+}
+
+@media (max-width: 1102px) {
+  .lio {
+    display: none;
+  }
 }

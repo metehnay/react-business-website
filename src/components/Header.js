@@ -52,7 +52,7 @@ const Header = () => {
           </li>
           <li className="contact">
             <Link
-              to="footer"
+              to="contact1"
               spy={true}
               smooth={true}
               offset={50}

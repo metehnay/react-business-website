@@ -57,7 +57,7 @@
   background-color: #6b7280;
   color: #fff;
   cursor: pointer;
-  transform: scale3d(1.2, 1.2, 1.2);
+  transform: scale3d(1.1, 1.1, 1.1);
   transition: 0.5s all;
 }
 
@@ -68,7 +68,7 @@
   background-color: #6b7280;
   color: #fff;
   cursor: pointer;
-  transform: scale3d(1.2, 1.2, 1.2);
+  transform: scale3d(1.1, 1.1, 1.1);
   transition: 0.5s all;
 }
 
